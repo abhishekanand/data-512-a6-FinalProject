@@ -20,6 +20,16 @@ This project is an attempt to study about Countries Green House Gas Emission and
 
 Local Copy in Raw format is present in Github : https://github.com/abhishekanand/data-512-a6-FinalProject/tree/master/data
 
+###  World CO2 Vs Wind Electricity
+
+Global CO2 Emission
+![Global CO2 Emission](http://full/path/to/img.jpg "CO2")
+
+WIND Electricity
+
+![WIND Electricity](http://full/path/to/img.jpg "Wind Electricity")
+
+
 ### Additional Resource / Publication :
 
 There have been multiple research done across Energy Consumption and Green House Gas Emission but I was only able to find one research paper focused on Energy consumption vs Green House Gas Emission :
