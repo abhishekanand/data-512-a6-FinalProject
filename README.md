@@ -23,11 +23,11 @@ Local Copy in Raw format is present in Github : https://github.com/abhishekanand
 ###  World CO2 Vs Wind Electricity
 
 Global CO2 Emission
-![Global CO2 Emission](https://github.com/abhishekanand/data-512-a6-FinalProject/blob/master/maps/WorldCO2.png")
+![Global CO2 Emission](https://github.com/abhishekanand/data-512-a6-FinalProject/blob/master/maps/WorldCO2.png)
 
 WIND Electricity
 
-![WIND Electricity](https://github.com/abhishekanand/data-512-a6-FinalProject/blob/master/maps/d3-world-map.png")
+![WIND Electricity](https://github.com/abhishekanand/data-512-a6-FinalProject/blob/master/maps/d3-world-map.png)
 
 
 ### Additional Resource / Publication :
